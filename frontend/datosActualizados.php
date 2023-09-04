@@ -16,7 +16,6 @@
     <link rel="stylesheet" href="iconos/css/all.css?n=1">
 
 </head>
-
 <body onload="deshabilitaRetroceso()">
 <header style="width: auto; height: auto;  padding: 4px; text-align: center; color: white; font-size: 17px; background: #1072b3; ">
         <p>Hospital Regional de Alta Especialidad de Ixtapaluca.</p>
